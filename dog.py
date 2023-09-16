@@ -1,3 +1,5 @@
+#Assignment-6 File handling - JSON -assignment-2
+
 class Dog:
     def __init__(self, name, age, coat_color):
         self.name = name
